@@ -3,22 +3,17 @@
 ##Setup
 1 -- navigate to your `assignments` directory:
 ```
-cd ~/TIY/assignments
+cd ~/Muktek/assignments
 ```
 
-2 -- Create the project folder for the correct number
+2 -- Create the project folder
 ```
 mkdir assignment-XX
 cd assignment-XX
 ```
 
-3 -- Inside your `assignment-XX` folder, download + unzip the file:
-```
-curl https://raw.githubusercontent.com/TIY-Charleston-Front-End-Engineering/Course-Guide/master/assignments/dom-manipulations-basics/assignment-dom-manipulations-basics.zip > assignment-dom-manipulations-basics.zip
+3 -- Download the `.zip` file, move it to your `assignment-XX` folder, and unzip it:
 
-unzip assignment-dom-manipulations-basics.zip
-```
+https://github.com/muktek/assignment--dom-manipulations-basics/blob/master/assignment-dom-manipulations-basics.zip
 
 4 -- Complete the tasks outlined in the assignment. All of your work will be in the `main.js` file.
-
-5 -- Submit in Newline
