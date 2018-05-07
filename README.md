@@ -1,6 +1,7 @@
-#DOM Manipulations - Basics
+# DOM Manipulations - Basics
 
-##Setup
+## Setup
+
 1 -- navigate to your `assignments` directory:
 ```
 cd ~/muktek/assignments
